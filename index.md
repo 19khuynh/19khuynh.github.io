@@ -16,6 +16,7 @@ This lab was the more advanced version of lab 04, part 2 HiLo game. The differen
 * #### [Lab 12:](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/tree/main)
 This lab was my favorite lab **OVERALL**, it utilized RBG and RNG along with creating images with a .gif format. It was challenging at first but was rewarding to see the end result. I was able to learn how to use rng to randomly change the intensity of red, green, and blue, to create that static effect in the .gif. Learning to adjust the message’s font, size, color and placement was super useful for anyone who’s into digital media!
 
+
 > Animated Gradient GIF:
 
 ![alt text](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-1/sample_images/sample_image.gif "Animated Gradient")
