@@ -1,7 +1,7 @@
 # Katelin Huynh's CPSC 120 Portfolio
 
 ### About me: 
-I am a Computer Engineering student at California State University, Fullerton, and expect to graduate in Spring of 2028.
+I am a Computer Engineering student at California State University, Fullerton, and expect to graduate in Spring of 2028. I love to experiment with coding to make fun little projects! ヾ(*´ ∇ `)ﾉ
 
 ## Favorite CPSC 120 Labs ##
 ### Patterns With Loops
@@ -98,8 +98,8 @@ This lab was my favorite lab **OVERALL**, it utilized RBG and RNG along with cre
 
 > Animated Gradient GIF:
 
-![Animated Gradient](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-1/sample_images/sample_image.gif)
+![Animated Gradient](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/animated_gradient.gif)
 
 > Making Messages GIF:
 
-![Making Messages](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-2/sample_images/sample_image.gif)
+![Making Messages](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/making_messages.gif)
