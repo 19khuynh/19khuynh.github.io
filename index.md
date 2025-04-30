@@ -98,8 +98,8 @@ This lab was my favorite lab **OVERALL**, it utilized RBG and RNG along with cre
 
 > Animated Gradient GIF:
 
-![Animated Gradient] (https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-1/sample_images/sample_image.gif)
+![Animated Gradient](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-1/sample_images/sample_image.gif)
 
 > Making Messages GIF:
 
-![Making Messages] (https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-2/sample_images/sample_image.gif)
+![Making Messages](https://github.com/cpsc-spring-2025/cpsc-120-lab-12-kate_cody/blob/main/part-2/sample_images/sample_image.gif)
