@@ -1,7 +1,9 @@
 # Katelin Huynh's CPSC 120 Portfolio
 
+### [My GitHub Profile](https://github.com/19khuynh)
 ### About me: 
 I am a Computer Engineering student at California State University, Fullerton, and expect to graduate in Spring of 2028. I love to experiment with coding to make fun little projects! ヾ(*´ ∇ `)ﾉ
+
 
 ## Favorite CPSC 120 Labs ##
 ### Patterns With Loops
