@@ -100,8 +100,8 @@ This lab was my favorite lab **OVERALL**, it utilized RBG and RNG along with cre
 
 > Animated Gradient GIF:
 
-![Animated Gradient](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/animated_gradient.gif)
+![Animated Gradient](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/animated_gradient.gif?raw=true)
 
 > Making Messages GIF:
 
-![Making Messages](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/making_messages.gif)
+![Making Messages](https://github.com/19khuynh/19khuynh.github.io/blob/main/images/making_messages.gif?raw=true)
